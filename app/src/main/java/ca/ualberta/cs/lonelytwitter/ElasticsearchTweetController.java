@@ -67,15 +67,21 @@ public class ElasticsearchTweetController {
 
             try {
                // TODO get the results of the query
+                Log.d("AAA",String.valueOf(search_parameters[0]));
                 SearchResult result = client.execute(search);
-                if (result.isSucceeded()){
+                if (result.isSucceeded()) {
                     List<NormalTweet> foundTweets
                             =result.getSourceAsObjectList(NormalTweet.class);
+                    //List<SearchResult.Hit<NormalTweet, Void>> hits = result.getHits(NormalTweet.class);
+
                     tweets.addAll(foundTweets);
+
+
+
                 }
             }
             catch (Exception e) {
-                Log.i("Error", "Something went wrong when we tried to communicate with the elasticsearch server!");
+                Log.e("Error", "Something went wrong when we tried to communicate with the elasticsearch server!");
             }
 
             return tweets;
