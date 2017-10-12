@@ -8,6 +8,7 @@
 package ca.ualberta.cs.lonelytwitter;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 /**
  * Created by XuanyiWu on 2017-10-11.
@@ -38,5 +39,20 @@ public class TweetList {
     public int getCount(){
         return tweets.size();
     }
+
+    public boolean check_dup (Tweet tweet){
+        for (Tweet element: tweets){
+            if (element.getMessage().equals(tweet.getMessage())){
+                return true ;
+            }
+        }
+        return false;
+    }
+
+    public ArrayList reversedList(){
+        Collections.reverse(tweets);
+        return tweets;
+    }
+
 
 }
