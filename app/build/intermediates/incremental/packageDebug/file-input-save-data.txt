@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Oct 11 19:30:47 MDT 2017
+2.base=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+2.set=ANDROID_RESOURCE
+4.base=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/res/layout/list_item.xml
+0.base=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+3.set=DEX
+1.base=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.set=ANDROID_RESOURCE

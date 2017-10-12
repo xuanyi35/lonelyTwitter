@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/pre-dexed/debug/classes-1aca29e13ab6bcc153ee10ad78e46cc025b1e6d7.jar" />
+    </item>
+    <item
+        jar="/Users/XuanyiWu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-dc39858eafe643d9694ec1228ca48053a31b9b31.jar" />
+    </item>
+    <item
+        jar="/Users/XuanyiWu/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.6.3/94ec2d7b23be9817d92905cc09124aecfc46d28c/robotium-solo-5.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="94ec2d7b23be9817d92905cc09124aecfc46d28c">
+        <dex dex="/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/pre-dexed/debug/robotium-solo-5.6.3-686796bdc2ecd39e738e6f2ce6a96c6dc1458336.jar" />
+    </item>
+    <item
+        jar="/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/src/include/jest-droid-2.0.1-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1199e84d8d3907b8262330dd6976ce04d37f6de">
+        <dex dex="/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/pre-dexed/debug/jest-droid-2.0.1-SNAPSHOT-307909d9833ac4cfda92fcf41a255622434b59bf.jar" />
+    </item>
+
+</items>

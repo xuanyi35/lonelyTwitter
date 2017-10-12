@@ -1,0 +1,9 @@
+#Internal package file, do not edit.
+#Wed Oct 11 19:47:25 MDT 2017
+1.file=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex
+1.set=DEX
+0.file=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug-androidTest.ap_/AndroidManifest.xml
+1.base=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+0.base=/Users/XuanyiWu/Desktop/project/lonelyTwitter/app/build/intermediates/res/resources-debug-androidTest.ap_
+0.set=ANDROID_RESOURCE
+count=2
