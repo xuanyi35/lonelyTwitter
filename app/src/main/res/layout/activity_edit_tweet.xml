@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017 Team 24,CMPUT301, University of Alberta - All Rights Reserved.
+  ~ You mayuse,distribute, or modify thid code under terms and condition of the Code of Student Behavior at University of Alberta.
+  ~ You can find a copy of the license in this project. Otherwise please contact xuanyi@ualberta.ca.
+  ~
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ca.ualberta.cs.lonelytwitter.EditTweetActivity">
+
+    <TextView
+        android:id="@+id/details"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="89dp"
+        android:text="TextView"
+        android:textSize="30sp" />
+</RelativeLayout>
